@@ -38,3 +38,8 @@ During the process of creating a mockup design for a personal website in the Fig
 - Begin practical exercises in Figma to create sketches, wireframes, mockups, and prototypes for various user interface designs.
 - Explore additional resources and tutorials on UI/UX design principles to deepen understanding and skill mastery.
 - Start implementing learned concepts in upcoming projects to enhance user experience and interface design.
+
+## References
+
+- [Figma](https://www.figma.com/): Figma is a web-based application for creating user interfaces
+- [Day 2, Website vs Web App, UI/UX Design, Figma](https://github.com/bearmentor-community/bearmentor-bootcamp/blob/main/days/day-02.md): Bermentor Bootcamp Day 2

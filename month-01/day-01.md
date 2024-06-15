@@ -34,3 +34,9 @@
   - **Fundamental essential soft skills**: English, communication, management, personal branding, profile/resume/CV, growth mindset, community, etc.
   - **Engineering hard skills**: logic, problem-solving, critical thinking, algorithm, data structure, system design, software architecture, etc.
   - **Practical implementation hard skills**: design, frontend, backend, full stack, library, framework, platform, services, etc.
+
+## References
+
+- [Day 01 - Start, Introduction](https://github.com/bearmentor-community/bearmentor-bootcamp/blob/main/days/day-01.md): Bearmentor Bootcamp Day 01
+- [MDN Web Docs - Web Development Curriculum](https://developer.mozilla.org/en-US/curriculum/) : MDN Web Docs
+- [Stack Overflow Developer Survey 2023](https://survey.stackoverflow.co/2023): Stack Overflow
