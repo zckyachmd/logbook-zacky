@@ -56,8 +56,6 @@ cd logbook-zacky
    ```markdown
    # Day {day} - [{month}/{date}]
 
-   ---
-
    ## Learnings
 
    - Basics of setting up Tailwind CSS in a project

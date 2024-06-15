@@ -1,7 +1,5 @@
 # Day 01 - Start, Introduction
 
----
-
 ## Learnings
 
 - Overview of the bootcamp activities
@@ -21,7 +19,7 @@
 
 ## Documentation
 
-<img src="../img/day-01-documentation.jpg" alt="Documentation" style="max-width: 100%; height: auto;" />
+<img src="../img/day-01-documentation.png" alt="Documentation" style="max-width: 100%; height: auto;" />
 
 ## Next Steps
 
