@@ -1,0 +1,5 @@
+# MacOs file system
+.DS_Store
+
+# Stores VSCode versions used for testing VSCode extensions
+.vscode-test
